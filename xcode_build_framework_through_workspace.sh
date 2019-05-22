@@ -1,4 +1,7 @@
+set -e
+
 # 1
+# Set the name and file path. 设置名字以及路径变量
 FMK_NAME="Target名称"
 WORKSPACE_NAME=${FMK_NAME}
 SCHEME_NAME=${FMK_NAME}
